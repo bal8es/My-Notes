@@ -17,8 +17,9 @@ I am a highly motivated fresh graduate who is always willing to learn more .
 ## Fundamentals of a good developer 
 there are many common issues that developers face during their journey , small factors that slowly and gradually harm their projects that may or may not appear at the first .
 
+
 but the qustion is how to **avoid being one of the victims?**
-in this article you will find the answer by developing a mindset that every developer should have , to keep your software simple and protect it from being an unmanageable complex system.
+developing a mindset that every developer should have is the key to keep your software simple and protect it from being an unmanageable complex system.
 
 ### The key points that every developer must master:
 
@@ -71,3 +72,6 @@ in this article you will find the answer by developing a mindset that every deve
 24.**Don’t be a hero**<br>
 
 25.**Don’t Ask Questions… Ask For Help**<br>
+
+visit the following link for more information [FreeCodeCamp](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/).
+
